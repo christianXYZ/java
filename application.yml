@@ -1,6 +1,6 @@
 info:
   description: Spring Cloud Samples
-  author: julio muñoz
+  author: christian clavijo
   
 eureka:
   hostname: localhost
